@@ -1,0 +1,38 @@
+_repo: Fantasia-of-the-Unconscious_20654
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Lawrence, D.H.
+    - Lawrence, David Herbert
+    - Davison, Lawrence H. (Lawrence Herbert)
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+description: Go to top; Foreword; Introduction; The Holy Family; Plexuses, Planes
+  and So On; Trees and Babies and Papas and Mamas; The Five Senses; First Glimmerings
+  of Mind; First Steps in Education; Education and Sex in Man, Woman and Child; The
+  Birth of Sex; Parent Love; The Vicious Circle; Litany of Exhortations; Cosmological;
+  Sleep and Dreams; The Lower Self; Epilogue; D.H. Lawrence Biography.
+gutenberg_issued: '2007-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20654'
+  lccn: '22023375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Subconsciousness'
+- !lcsh 'Psychoanalysis'
+- !lcsh 'Sex'
+title: Fantasia of the Unconscious
+url: http://www.gutenberg.org/ebooks/20654
